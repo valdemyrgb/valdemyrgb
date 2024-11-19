@@ -15,5 +15,5 @@
 - ⚡ Como lazer prezo a boa música e sou musico clássico amador. <br>
 <p>CONTATOS:</p>
 📫 email - valdemyrgb@gmail.com <br><br>
-<a href="https://www.instagram.com/valdemirgb/"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-<a href="https://www.facebook.com/valdemirgb"> <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
+<a href="https://www.instagram.com/valdemirgb/" target="_blank"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+<a href="https://www.facebook.com/valdemirgb" target="_blank"> <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
