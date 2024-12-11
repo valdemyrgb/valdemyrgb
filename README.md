@@ -12,7 +12,7 @@
 - 👯 Busco colaborar em projetos a distância no regime remoto (home office).
 - 🤔 Estou na busca por conhecimentos em programação afim de praticar o conhecimento adquirido constantemente.
 - 💬 Sobre mim: sou autodidata, disciplinado e responsável.
-- ⚡ Como lazer prezo a boa música e sou musico clássico amador. <br>
+- ⚡ Como lazer prezo a boa música e sou musico voluntário na congregação. <br>
 <p>CONTATOS:</p>
 📫 email - valdemyrgb@gmail.com <br><br>
 <a href="https://www.instagram.com/valdemirgb/" target="_blank"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
